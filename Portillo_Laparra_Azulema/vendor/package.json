@@ -1,0 +1,26 @@
+{
+  "name": "artesanias",
+  "version": "1.0.0",
+  "description": "negocio web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azulemaportillo25/artesaniasenmadera.github.io.git"
+  },
+  "keywords": [
+    "artesanias"
+  ],
+  "author": "Azulema portilloazulema@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azulemaportillo25/artesaniasenmadera.github.io/issues"
+  },
+  "homepage": "https://github.com/azulemaportillo25/artesaniasenmadera.github.io#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-mobile": "^1.5.0-alpha.1"
+  }
+}

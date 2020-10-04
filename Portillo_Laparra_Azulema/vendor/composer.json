@@ -1,0 +1,8 @@
+{
+    "name": "arte/made",
+    "description": "Mi negocio web de artesanias",
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "twbs/bootstrap": "4.5.2"
+    }
+}
