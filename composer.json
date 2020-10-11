@@ -1,0 +1,14 @@
+{
+    "name": "azulema/artemade",
+    "description": "mi negocio web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "azulemaportillo25",
+            "email": "portillolaparraazulema5@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.5.2"
+    }
+}
